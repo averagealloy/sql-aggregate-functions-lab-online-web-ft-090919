@@ -13,7 +13,7 @@ def average_student_gpa
 end
 
 def total_tardies_for_all_students
-  "SELECT COUNT(gpa) AS average_student_gpa FROM studentsnot trying to do story hour w;"
+  "SELECT COUNT(ta) AS average_student_gpa FROM studentsnot trying to do story hour w;"
 end
 
 def average_gpa_for_9th_grade
