@@ -19,5 +19,5 @@ end
 def average_gpa_for_9th_grade
   "SELECT AVG(gpa) FROM students "
   #where students
-  #what a
+  #what average o
 end
